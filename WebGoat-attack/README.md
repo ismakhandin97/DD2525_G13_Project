@@ -1,6 +1,5 @@
 # WebGoat deserialization attack
-Add this folder to the WebGoat project 
-Compile it
+Add this folder to the WebGoat project and compile it
 ```sh
 cd attack/src
 javac org.dummy.insecure.framework/Attacker.java org.dummy.insecure.framework/VulnerableTaskHolder.java 
